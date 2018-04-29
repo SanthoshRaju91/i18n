@@ -1,0 +1,6 @@
+node_modules
+mirage
+npm-debug.log
+test.js
+db
+logs
